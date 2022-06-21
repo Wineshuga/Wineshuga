@@ -6,7 +6,7 @@
 👯 I'm looking for help to increase my work experience.\
 💬 Ask me about Frontend Dev.\
 📫 How to reach me: Uziwinnie@gmail.com\
-⚡ Favorite Quote: Be Scared But Do It Anyway.\
+⚡ Favorite Quote: Be Scared But Do It Anyway.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/uziwinnie) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@uziwinnie) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@uziwinnie) 
