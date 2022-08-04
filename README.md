@@ -5,7 +5,7 @@
 🌱 I'm currently learning more about Python & JavaScript.\
 👯 I'm looking for help to increase my work experience.\
 💬 Ask me about Frontend Dev.\
-📫 How to reach me: Uziwinnie@gmail.com\
+📫 How to reach me: Uzochukwuwinnie@gmail.com\
 ⚡ Favorite Quote: Be Scared But Do It Anyway.
 
 ## 🌐Socials
