@@ -1,9 +1,9 @@
 ### Hello, I'm Winnie 👋
 
 # 💫About Me :
-🔭 I'm currently working on my skills.\
-🌱 I'm currently learning more about Python & JavaScript.\
-👯 I'm looking for help to increase my work experience.\
+🔭 I'm currently a full-time student at Microverse.\
+🌱 I'm training to become a fullstack developer.\
+👯 I'm looking for help to increase my work experience and expand my knowledge.\
 💬 Ask me about Frontend Dev.\
 📫 How to reach me: Uzochukwuwinnie@gmail.com\
 ⚡ Favorite Quote: Be Scared But Do It Anyway.
