@@ -2,7 +2,7 @@
 
 # 💫About Me :
 🔭 I'm a Microverse alumnus.\
-🌱 I'm a full-stack developer but major in Front-end.\
+🌱 I'm a full-stack developer but major in front-end.\
 👯 I seek opportunities to increase my work experience and expand my knowledge.\
 💬 Ask me about Frontend.\
 📫 How to reach me: Uzochukwuwinnie@gmail.com\
