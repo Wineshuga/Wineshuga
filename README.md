@@ -1,12 +1,14 @@
 ### Hello, I'm Winnie 👋
 
 # 💫About Me :
-🔭 I'm currently a full-time student at Microverse.\
-🌱 I'm training to become a full-stack developer.\
+🔭 I'm a Microverse alumnus.\
+🌱 I'm a full-stack developer but major in Front-end.\
 👯 I seek opportunities to increase my work experience and expand my knowledge.\
 💬 Ask me about Frontend.\
 📫 How to reach me: Uzochukwuwinnie@gmail.com\
-⚡ Favorite Quote: Be Scared But Do It Anyway.
+⚡ Favorite Quote 1: Be Scared But Do It Anyway.
+⚡ Favorite Quote 2: Feel Comfortable Feeling Uncomfortable.
+⚡ Favorite Quote 3: Hit or Miss: Shots Must Be Fired.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/uziwinnie) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@uziwinnie) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@uziwinnie) 
