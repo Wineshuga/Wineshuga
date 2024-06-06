@@ -2,7 +2,7 @@
 
 # 💫About Me :
 🔭 Microverse alumnus.\
-🌱 Full-stack developer but major in front-end.\
+🌱 Full-stack developer but majors in front-end.\
 👯 I seek opportunities to increase my work experience and expand my knowledge.\
 💬 Ask me about Frontend.\
 🐍 Currently doing more Python stuff.\
